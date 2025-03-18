@@ -1,0 +1,26 @@
+.header {
+  height: 29px;
+  flex-shrink: 0;
+  display: flex;
+  height: 29px;
+  justify-content: space-between;
+  align-items: center;
+  flex-shrink: 0;
+  font-family: Helvetica, sans-serif;
+
+  &.t-white {
+    color: white;
+  }
+}
+
+.header-andrea {
+  flex-shrink: 0;
+  font-size: 20px;
+  font-weight: 700;
+}
+.header-windos {
+  font-size: 15px;
+  display: flex;
+  align-items: center;
+  gap: 86px;
+}

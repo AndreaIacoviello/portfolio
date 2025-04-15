@@ -82,3 +82,27 @@
 .projet9 h2 {
   margin-top: 20px;
 }
+
+.projet-1 img {
+  transition: transform 0.3s ease;
+}
+
+.projet-1 img:hover {
+  transform: scale(1.05);
+}
+
+.projet-2 img {
+  transition: transform 0.3s ease;
+}
+
+.projet-2 img:hover {
+  transform: scale(1.05);
+}
+
+.projet-3 img {
+  transition: transform 0.3s ease;
+}
+
+.projet-3 img:hover {
+  transform: scale(1.05);
+}

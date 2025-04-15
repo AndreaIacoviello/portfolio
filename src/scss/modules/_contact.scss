@@ -1,5 +1,15 @@
 .contact {
-  font-family: Helvetica;
   font-size: 22px;
+  height: calc(100vh - 29px);
+  display: flex;
   align-items: center;
+  padding-left: 517px;
+}
+
+.contact h1 {
+  margin-bottom: 20px;
+}
+
+.contact p {
+  margin-bottom: 20px;
 }

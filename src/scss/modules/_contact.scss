@@ -13,3 +13,12 @@
 .contact p {
   margin-bottom: 20px;
 }
+
+.contact a {
+  display: inline-block;
+  transition: transform 0.3s ease;
+}
+
+.contact a:hover {
+  transform: scale(1.08);
+}
